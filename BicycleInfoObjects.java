@@ -1,4 +1,4 @@
-public class BicycleInfoObjects{
+public class BicycleInfoObjects  {
 	private int sPEEd;
 	private int sIZe;
 	private String cOLOr;
